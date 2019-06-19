@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "LeetCode1021.Main",
+            "projectName": "LeetCode_smsuperman_fb293df0"
+        }
+    ]
+}

@@ -2,32 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dbda67-fdb8-493e-8eef-2f2d7ff52279" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode217/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode217/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode219/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode219/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode268/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode268/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode283/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode283/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode344/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode344/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode509/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode509/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode589/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode589/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode589/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode590/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode590/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode590/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode628/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode628/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode709/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode709/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode724/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode724/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode728/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode728/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,9 +43,28 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode771/Main.java">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode905/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode977/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode1002/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -105,6 +98,9 @@
         <option value="$PROJECT_DIR$/src/LeetCode724/Main.java" />
         <option value="$PROJECT_DIR$/src/LeetCode728/Main.java" />
         <option value="$PROJECT_DIR$/src/LeetCode771/Main.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode905/Main.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode977/Main.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode1002/Main.java" />
       </list>
     </option>
   </component>
@@ -143,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560936841452" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560936887833" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -152,11 +148,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\LeetCode_smsuperman\Project\src\LeetCode1002" />
       <recent name="D:\Github\LeetCode_smsuperman\Project\src\LeetCode977" />
       <recent name="D:\Github\LeetCode_smsuperman\Project\src\LeetCode905" />
       <recent name="D:\Github\LeetCode_smsuperman\Project\src\LeetCode771" />
       <recent name="D:\Github\LeetCode_smsuperman\Project\src\LeetCode728" />
-      <recent name="D:\Github\LeetCode_smsuperman\Project\src\LeetCode724" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -194,15 +190,16 @@
       <option name="presentableId" value="Default" />
       <updated>1560933385759</updated>
       <workItem from="1560933391727" duration="128000" />
-      <workItem from="1560936306594" duration="477000" />
+      <workItem from="1560936306594" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618000" />
+    <option name="totallyTimeSpent" value="713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,6 +345,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode771/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode905/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode977/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode1002/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
