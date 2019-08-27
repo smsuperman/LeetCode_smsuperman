@@ -18,5 +18,5 @@ public class Solution {
         }
         ans.append(ca == 1 ? ca : "");
         return ans.reverse().toString();
-    }
+    } 
 }
