@@ -6,6 +6,6 @@ package LeetCode5;
 public class Solution {
 
     // public String longestPalindrome(String s) {
-
+        
     // }
 }
