@@ -6,6 +6,6 @@ package LeetCode278;
 public class VersionControl {
 
     boolean isBadVersion(int version){
-        return true
+        return true;
     }
 }
