@@ -1,6 +1,5 @@
 package LeetCode34;
 
-import javax.lang.model.element.Element;
 
 /**
  * Solution
