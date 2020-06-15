@@ -1,7 +1,8 @@
 package LeetCode4;
 
 /**
- * Solution
+ * Solution 
+ * test
  */
 public class Solution {
 
